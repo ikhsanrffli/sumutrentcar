@@ -981,9 +981,9 @@ button, a { transition: var(--transition); }
 
   .hero-banner {
     display: block;
-    background: url("../images/hero-banner.jpg") no-repeat;
+    background: url("../images/banner.webp") no-repeat center center;
     background-size: cover;
-    background-position: left;
+
     position: absolute;
     top: 100px;
     bottom: 50px;
