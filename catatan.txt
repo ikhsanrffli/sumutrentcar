@@ -1,0 +1,5 @@
+hal yang harus ditambahkan
+
+- SLIDER IMAGE
+- count selesai tinggal css nya
+- paket on going 
